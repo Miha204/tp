@@ -1,0 +1,6 @@
+@TP_Conditer_HostAddress = http://localhost:5277
+
+GET {{TP_Conditer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
